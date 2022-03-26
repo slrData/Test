@@ -6,5 +6,4 @@ getgenv().names = {
 "Jerhimibaseballpro",
 "kevin8192378",
 }
---wl
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/slrData/solarData/main/checks/bruh"))()
+
